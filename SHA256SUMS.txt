@@ -1,3 +1,4 @@
 f84231f4c1e8e7beb2d0bcf5669f0d0f5b8f3cd5867ca16fd37a0bb096acf095  Qinglan-Windows-Portable.zip
 cfc1a2e063529677c3b434755a1a8e16bb719f88fcd871ec57305602746d428e  Qinglan-v0.2.0-Update.zip
 90f81e364ea71d637ca3eec07bffdef685a2608530266b2d55d1144c9e42e3e5  Qinglan-v0.2.0-Windows-Portable.zip
+406a259e5a6a30af4f1805f540eb30227c61d650ba966320a6ce48dabe795fcb  Qinglan-v0.2.1-Update.zip
