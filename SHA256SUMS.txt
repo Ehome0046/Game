@@ -8,3 +8,4 @@ d1cb3eadab044cff29ee2635f20cfdbc4a8511e8e9c758711bca75b3a7489d7e  Qinglan-v0.4.0
 3a3bac2fda9d660017476c79cf1350c3ecfe97455a68c19d85cbbf005d2e9c54  Qinglan-v0.5.0-Update.zip
 4d27209abccf1759278ba0f2f717922e2f6f153eb99c3809d3a4f464480182a3  Qinglan-v0.6.0-Update.zip
 419ed52e98a52f7f60f7d8e57b57d58b880a3d92e9f99e0e77f3ed443c438a81  Qinglan-v0.7.0-Update.zip
+d7f09debe518fbdb0d5dfb489b4a92b33940a104202ff60ab4f0fdbc3f9a64d9  Qinglan-v0.8.0-Update.zip
